@@ -54,3 +54,6 @@ function Estado(imc) {
         return "Obesidad Mórbida"
     }
 }
+function Borrar(){
+    document.getElementById("res").innerHTML=" "
+}
